@@ -1,0 +1,14 @@
+-¿Qué es un commit?
+Commit se refiere a la accion de actualizar lo que ya se tenia en la carpeta de gitkraken
+pero con la posibilidad de regresar al "commit"anterior por si no se quieren guardar los cambios
+en otras palabras es como versionar el proyecto.
+
+-¿Qué es merge?
+Es una forma de mezclar los commits para hacer que encaje la aplicacion cuando se trabaja con un equipo
+así se posibilita el uso de diferentes maquinas trabajando el mismo proyecto para que cuando se haga
+"merge" entonces se unan las diferentes partes hechas en diferentes maquinas y hacer que encajen.
+
+-¿Pull y Push cual es la diferencia?
+La diferencia es que cuando se hace "Pull" se obtienen datos actualizados que otra persona colaboradora
+ha subido o que se haya editado el proyecto y con el "Push" se envia lo que hemos editado para que los 
+demas puedan actualizarlo.
