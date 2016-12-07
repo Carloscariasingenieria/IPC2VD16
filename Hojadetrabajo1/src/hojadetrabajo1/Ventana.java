@@ -348,7 +348,10 @@ double resultado;
     }//GEN-LAST:event_concalcularActionPerformed
 
     private void cilcalcularActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_cilcalcularActionPerformed
-        // TODO add your handling code here:
+        a=Integer.parseInt(cilindro1.getText());
+        b=Integer.parseInt(cilindro2.getText());
+        resultado=(Math.PI)*(Math.pow(a,2))*(b);
+        cilresultado.setText(""+resultado);
     }//GEN-LAST:event_cilcalcularActionPerformed
 
     private void pitagorasActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_pitagorasActionPerformed
