@@ -355,7 +355,7 @@ double resultado;
         a=Integer.parseInt(cilindro1.getText());
         b=Integer.parseInt(cilindro2.getText());
         resultado=(Math.PI)*(Math.pow(a,2))*(b);
-        cilresultado.setText(""+resultado);
+        cilresultado.setText(""+resultado+"CARNET:201503750");
     }//GEN-LAST:event_cilcalcularActionPerformed
 
     private void pitagorasActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_pitagorasActionPerformed
